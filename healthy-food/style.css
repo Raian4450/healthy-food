@@ -39,9 +39,14 @@ body {
 
 }
 
-.girl {
-    margin-top: 5%;
+.common {
+    margin-bottom: 25%;
 
+}
+
+.girl {
+    width: fit-content;
+    float: right;
 
 }
 
