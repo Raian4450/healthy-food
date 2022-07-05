@@ -1,3 +1,56 @@
 body {
     font-family: 'Arimo', sans-serif;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+
+.orange {
+    color: orange;
+}
+
+#boro {
+    font-size: 90px;
+}
+
+.nabil {
+    color: gray;
+}
+
+.fool {
+    font-size: 35px;
+}
+
+.click {
+    text-decoration: none;
+    background-color: orange;
+    padding: 30px 100px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    background-size: 200%;
+    font-size: 170%;
+
+}
+
+.line {
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+
+}
+
+.girl {
+    margin-top: 5%;
+
+
+}
+
+#boy {
+    height: 700px;
+    width: 900px;
+}
+
+#health {
+    text-align: justify;
+    border: 10px 20px;
 }
